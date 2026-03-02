@@ -483,7 +483,7 @@ const App = () => {
                     </svg>
                   </div>
                   <div>
-                    <h4 className="text-xs sm:text-sm font-semibold text-gray-900 mb-1">需要帮助？</h4>
+                    <h4 className="text-xs sm:text-sm font-semibold text-gray-900 mb-1">需要帮助吗？</h4>
                     <p className="text-[10px] sm:text-xs text-gray-600">如需咨询或有特殊需求，请联系我们的售前顾问</p>
                   </div>
                 </div>
