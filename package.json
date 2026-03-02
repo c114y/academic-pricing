@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Vanilla TypeScript application with Vite (HTML + CSS + TS)",
   "scripts": {
-    "build": "cmd /c scripts/build.bat",
-    "dev": "cmd /c scripts/dev.bat",
+    "build": "bash ./scripts/build.sh",
+    "dev": "bash ./scripts/dev.sh",
     "preinstall": "npx only-allow pnpm",
     "lint": "eslint",
-    "start": "cmd /c scripts/start.bat",
+    "start": "bash ./scripts/start.sh",
     "ts-check": "tsc -p tsconfig.json"
   },
   "dependencies": {
